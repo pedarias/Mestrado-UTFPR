@@ -1,0 +1,7 @@
+Mutual Information: 0, []
+Smart Correlated: 16, ['BusinessTravel', 'Department', 'DistanceFromHome', 'Education', 'EducationField', 'EnvironmentSatisfaction', 'Gender', 'HourlyRate', 'JobInvolvement', 'MonthlyRate', 'NumCompaniesWorked', 'PercentSalaryHike', 'RelationshipSatisfaction', 'TrainingTimesLastYear', 'WorkLifeBalance', 'YearsSinceLastPromotion']
+ANOVA: 0, []
+Mutual Information and Smart Correlated: 4, ['DailyRate', 'JobRole', 'JobSatisfaction', 'PerformanceRating']
+Mutual Information and ANOVA: 1, ['MonthlyIncome']
+Smart Correlated and ANOVA: 4, ['MaritalStatus', 'StockOptionLevel', 'YearsInCurrentRole', 'YearsWithCurrManager']
+Mutual Information and Smart Correlated and ANOVA: 5, ['Age', 'JobLevel', 'OverTime', 'TotalWorkingYears', 'YearsAtCompany']
