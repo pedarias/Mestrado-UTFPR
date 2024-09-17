@@ -1,0 +1,9 @@
+# Ignorar todos os arquivos
+*
+
+# Não ignorar o .gitignore
+!.gitignore
+
+# Não ignorar o art.pdf
+!art.pdf
+
