@@ -1,9 +1,13 @@
-# Ignorar todos os arquivos
-*
+art.aux
+	
+art.log
+	
+art.out
 
-# Não ignorar o .gitignore
-!.gitignore
+art.synctex.gz
+	
+art.tex
+	
+class01.png
 
-# Não ignorar o art.pdf
-!art.pdf
-
+featureImportanceLR.png
